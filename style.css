@@ -1,0 +1,17 @@
+body
+{
+background-color: rgb(0, 139, 86);
+}
+
+#time
+{
+    float: right;
+    margin-right: 20px;
+font-size: 35px;
+}
+
+#score
+{
+    margin-left: 20px;
+    font-size: 30px;
+}
